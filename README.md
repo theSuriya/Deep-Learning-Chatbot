@@ -24,6 +24,6 @@ Ensure you have the following prerequisites installed:
 1. Clone the repository and install the required dependencies:
 
   ```bash
- 
+    https://github.com/theSuriya/Deep-Learning-Chatbot.git
     cd your-repository
 
