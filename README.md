@@ -2,6 +2,9 @@
 
 A conversational agent implemented using deep learning techniques and the Dialogflow framework. This chatbot is designed to handle natural language conversations and provide responses based on a trained model.
 
+## Model Link
+https://thesuriya.github.io/Deep-Learning-Chatbot/
+
 ## Introduction
 
 This project involves building a deep learning-based chatbot using the Dialogflow framework. Dialogflow allows for natural language understanding and processing, enabling the chatbot to engage in meaningful conversations with users.
